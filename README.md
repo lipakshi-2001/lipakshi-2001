@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @lipakshi-2001
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python and SQL
+- 👀 I’m a Data Science Geek
+- 🌱 I’m trying to get a good hold on the filed by making more and more projects and getting a hands-on
+- 📚 I'm also revising the topics like Python, Machine Leraning, SQL , Data Visualization and reaseraching more about them.
 - 💞️ I’m looking to collaborate on python and data science projects
 - 📫 How to reach me on gmail : virklipakshi@gmail.com 
 
